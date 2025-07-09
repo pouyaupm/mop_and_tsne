@@ -1,0 +1,2 @@
+python benchmark_suite.py --gens 200 --popsz 100 --seeds 30 --time-limit 600
+

@@ -1,0 +1,4 @@
+pymoo==0.6.0
+scikit-learn==1.4.1
+matplotlib==3.8.4
+tqdm==4.66.2

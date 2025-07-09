@@ -1,0 +1,11 @@
+name: pareto-viz
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - matplotlib
+  - scikit-learn
+  - tqdm
+  - pip
+  - pip:
+      - pymoo==0.6.0
